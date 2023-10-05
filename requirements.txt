@@ -1,0 +1,4 @@
+LIBRARY DEPENDENCIES:
+1. python
+2. tkinter, ttkbootstrap
+3. scikit-learn
